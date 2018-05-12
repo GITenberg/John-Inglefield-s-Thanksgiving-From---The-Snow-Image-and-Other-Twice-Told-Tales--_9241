@@ -1,5 +1,8 @@
 _repo: John-Inglefield-s-Thanksgiving-From---The-Snow-Image-and-Other-Twice-Told-Tales--_9241
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Hawthorne, Nathaniel
@@ -10,6 +13,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Nathaniel_Hawthorne
 description: Features the intimate holiday gathering of the Inglefield family, one
   of its members conspicuously absent, while another surprisingly arrives.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/9241#John-Inglefield-s-Thanksgiving-From---The-Snow-Image-and-Other-Twice-Told-Tales--
 gutenberg_issued: '2005-11-01'
 gutenberg_type: Text
 identifiers:
